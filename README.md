@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en français est disponible dans [docs/fr/](docs/fr/).
+
 <img width="830" alt="Liquity V2" src="https://github.com/user-attachments/assets/d9eb5b2a-d437-4472-94d6-07fa537e689a" />
 
 [![Coverage Status](https://coveralls.io/repos/github/liquity/bold/badge.svg?branch=main&t=yZSfc8)](https://coveralls.io/github/liquity/bold?branch=main)
